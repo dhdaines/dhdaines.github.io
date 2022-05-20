@@ -10,7 +10,7 @@ accordance with the laws of thermodynamics.
 
 Currently working on:
 
-- [SoundSwallower: an even smaller speech recognizer](https://github.com/ReadAlongs/SoundSwallower)
+- [SoundSwallower: an even smaller speech recognizer](https://github.com/ReadAlongs/SoundSwallower) (see a [demo running in your browser](https://dhdaines.github.io/soundswallower-demo/))
 - [ReadAlong Studio](https://github.com/ReadAlongs/Studio)
 
 [CV (en français)](https://docs.google.com/document/d/13xnsEagX5vZ51MmQlKzWiAkqLm8K1ai0FsMilcMuYrM)
