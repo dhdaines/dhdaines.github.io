@@ -10,7 +10,11 @@ accordance with the laws of thermodynamics.
 
 Currently working on:
 
+- [ALEXI: Extracteur d'Information](https://github.com/dhdaines/alexi)
+- [ZONALDA: ZONage AdÉLois Démontré aux Adélois.e.s](https://github.com/dhdaines/alexi)
+- [SERAFIM: SystÈme de Recherche Adéloise pour Fouiller dans les Informations Municipales](https://github.com/dhdaines/serafim)
 - [SoundSwallower: an even smaller speech recognizer](https://github.com/ReadAlongs/SoundSwallower)
+- [ReadAlong Studio Web Application](https://github.com/ReadAlongs/Web-Component)
 - [ReadAlong Studio](https://github.com/ReadAlongs/Studio)
 
 See demos of [speech-to-text alignment](https://dhdaines.github.io/alignment-demo/) and [grammar-based speech recognition](https://dhdaines.github.io/soundswallower-demo/) running directly in the browser!
