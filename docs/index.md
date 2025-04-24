@@ -9,7 +9,7 @@ a good life on Earth in accordance with the laws of thermodynamics.
 
 Currently working on:
 
-- [PLAYA-PDF: Parallel and Lazy AnalYser for PDF](https://github.com/dhdaines/playa)
+- [PLAYA-PDF: Parallel and LAzY Analyer for PDFs](https://github.com/dhdaines/playa)
 - [PAVÉS: PDF, Analyse et Visualisation avancÉS](https://github.com/dhdaines/paves)
 - [ALEXI: EXtracteur d'Information](https://github.com/dhdaines/alexi)
 - [ZONALDA: ZONage AdÉLois Démontré aux Adélois.e.s](https://github.com/dhdaines/alexi)
