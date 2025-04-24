@@ -3,12 +3,14 @@ layout: home
 title: Home page
 ---
 
-Open-source speech and language technologies in C, Python, JavaScript,
-and other languages.  Small-town politics.  Trying to live a good life on Earth in
-accordance with the laws of thermodynamics.
+Open-source speech, language and document technologies in C, Python,
+JavaScript, and other languages.  Small-town politics.  Trying to live
+a good life on Earth in accordance with the laws of thermodynamics.
 
 Currently working on:
 
+- [PLAYA-PDF: Parallel and Lazy AnalYser for PDF](https://github.com/dhdaines/playa)
+- [PAVÉS: PDF, Analyse et Visualisation avancÉS](https://github.com/dhdaines/paves)
 - [ALEXI: EXtracteur d'Information](https://github.com/dhdaines/alexi)
 - [ZONALDA: ZONage AdÉLois Démontré aux Adélois.e.s](https://github.com/dhdaines/alexi)
 - [SERAFIM: SystÈme de Recherche Adélois pour Fouiller dans les Informations Municipales](https://github.com/dhdaines/serafim)
